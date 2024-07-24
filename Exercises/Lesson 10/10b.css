@@ -1,0 +1,67 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial;
+  margin-left: 10px;
+}
+
+
+
+.video-Info {
+  display: inline-block;
+}
+
+.Profile-Picture {
+  display: inline-block;
+  vertical-align: top;
+  width: 100px;
+  margin-top: 10px;
+}
+
+.Cat-Picture {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.title {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.PAR2,
+.PAR {
+  color: rgb(147, 148, 148);
+  margin-top: 5px;
+
+}
+
+
+.Follow {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.search-follow3,
+.search-follow2,
+.search-follow1 {
+  font-family: Arial;
+  background-color: rgb(74, 158, 238);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+  border: none;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 150px;
+}
+
+.search-follow2 {
+  margin-left: 128px;
+
+}
+
+.search-follow3 {
+  margin-left: 104px;
+
+}

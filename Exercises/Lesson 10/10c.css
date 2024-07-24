@@ -1,0 +1,50 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial;
+  margin-left: 10px;
+}
+
+.Main {
+  margin-bottom: 10px;
+}
+
+.video-Info {
+  display: inline-block;
+  width: 280px;
+
+}
+
+.Profile-Picture {
+  display: inline-block;
+  vertical-align: top;
+  object-fit: cover;
+  width: 300px;
+}
+
+.Cat-Picture {
+  width: 300px;
+  height: 150px;
+}
+
+.title {
+  font-size: 18px;
+  margin-top: 5px;
+  font-weight: bold;
+  line-height: 28px;
+}
+
+span {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.video-state2,
+.video-state1 {
+  font-size: 16px;
+}
+
+.video-state1 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
